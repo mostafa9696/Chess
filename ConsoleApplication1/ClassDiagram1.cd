@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="Game::light" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Game.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAQAAAEQKAABIAAACAAEAAAAAgQKDEJBAAAgCCAQAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessPiece" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACABAhCAAAEAIAAAAAAEBgABAAAAQAAABAA=</HashCode>
+      <FileName>ChessPiece.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessBoard">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAIAAAAAAAAAAAAAAIAAAACAAAAECAAAAA=</HashCode>
+      <FileName>CheesBoard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pawn" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCAAIAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>AllPieces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="knight" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAiAAAAAgCBAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllPieces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rock" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCAAEAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllPieces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bishop" Collapsed="true">
+    <Position X="6.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCAAAAAAAQAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>AllPieces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="King">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAACBAAgAgDAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllPieces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Queen" Collapsed="true">
+    <Position X="11" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAACAAAAAgCAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>AllPieces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

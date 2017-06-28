@@ -1,0 +1,40 @@
+﻿Build started 11/05/2016 07:46:38 ص.
+     1>Project "E:\OOP project\last Game 22 tmp\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\SFML-2.3.2\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>e:\oop project\last game 22 tmp\consoleapplication1\game.h(46): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\oop project\last game 22 tmp\consoleapplication1\game.h(53): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\oop project\last game 22 tmp\consoleapplication1\game.h(61): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\oop project\last game 22 tmp\consoleapplication1\game.h(72): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\oop project\last game 22 tmp\consoleapplication1\game.h(79): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\oop project\last game 22 tmp\consoleapplication1\game.h(87): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\oop project\last game 22 tmp\consoleapplication1\game.h(40): warning C4101: 'Gx' : unreferenced local variable
+     1>e:\oop project\last game 22 tmp\consoleapplication1\game.h(99): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\oop project\last game 22 tmp\consoleapplication1\game.h(101): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\oop project\last game 22 tmp\consoleapplication1\game.h(114): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\oop project\last game 22 tmp\consoleapplication1\game.h(116): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\oop project\last game 22 tmp\consoleapplication1\game.h(132): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\oop project\last game 22 tmp\consoleapplication1\game.h(138): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\oop project\last game 22 tmp\consoleapplication1\game.h(145): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\oop project\last game 22 tmp\consoleapplication1\game.h(330): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\oop project\last game 22 tmp\consoleapplication1\game.h(349): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\OOP project\last Game 22 tmp\Debug\ConsoleApplication1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\SFML-2.3.2\lib" "sfml-system-d.lib" "sfml-window-d.lib" "sfml-graphics-d.lib" "sfml-network-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\OOP project\last Game 22 tmp\Debug\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\OOP project\last Game 22 tmp\Debug\ConsoleApplication1.lib" /MACHINE:X86 Debug\Bishop.obj
+         Debug\chessBoard.obj
+         Debug\chessPiece.obj
+         Debug\King.obj
+         Debug\Knight.obj
+         Debug\Main.obj
+         Debug\MenuBase.obj
+         Debug\MenuExit.obj
+         Debug\MenuOptions.obj
+         Debug\pawn.obj
+         Debug\Queen.obj
+         Debug\Rock.obj
+         ConsoleApplication1.vcxproj -> E:\OOP project\last Game 22 tmp\Debug\ConsoleApplication1.exe
+     1>Done Building Project "E:\OOP project\last Game 22 tmp\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.59
